@@ -15,24 +15,24 @@
   -->
 <resources>
     <string name="app_name">Woof</string>
-    <string name="dog_name_1">Koda</string>
-    <string name="dog_name_2">Lola</string>
-    <string name="dog_name_3">Frankie</string>
-    <string name="dog_name_4">Nox</string>
-    <string name="dog_name_5">Faye</string>
-    <string name="dog_name_6">Bella</string>
-    <string name="dog_name_7">Moana</string>
-    <string name="dog_name_8">Tzeitel</string>
-    <string name="dog_name_9">Leroy</string>
-    <string name="dog_description_1">Eating treats on the terrace</string>
-    <string name="dog_description_2">Barking at Daddy</string>
-    <string name="dog_description_3">Stealing socks</string>
-    <string name="dog_description_4">Meeting new animals</string>
-    <string name="dog_description_5">Digging in the garden</string>
-    <string name="dog_description_6">Chasing sea foam</string>
-    <string name="dog_description_7">Bothering her paw-rents</string>
-    <string name="dog_description_8">Sunbathing</string>
-    <string name="dog_description_9">Sleeping in dangerous places</string>
+    <string name="dog_name_1" translatable="false">Koda</string>
+    <string name="dog_name_2" translatable="false">Lola</string>
+    <string name="dog_name_3" translatable="false">Frankie</string>
+    <string name="dog_name_4" translatable="false">Nox</string>
+    <string name="dog_name_5" translatable="false">Faye</string>
+    <string name="dog_name_6" translatable="false">Bella</string>
+    <string name="dog_name_7" translatable="false">Moana</string>
+    <string name="dog_name_8" translatable="false">Tzeitel</string>
+    <string name="dog_name_9" translatable="false">Leroy</string>
+    <string name="dog_description_1" translatable="false">Eating treats on the terrace</string>
+    <string name="dog_description_2" translatable="false">Barking at Daddy</string>
+    <string name="dog_description_3" translatable="false">Stealing socks</string>
+    <string name="dog_description_4" translatable="false">Meeting new animals</string>
+    <string name="dog_description_5" translatable="false">Digging in the garden</string>
+    <string name="dog_description_6" translatable="false">Chasing sea foam</string>
+    <string name="dog_description_7" translatable="false">Bothering her paw-rents</string>
+    <string name="dog_description_8" translatable="false">Sunbathing</string>
+    <string name="dog_description_9" translatable="false">Sleeping in dangerous places</string>
     <string name="about">About:</string>
     <string name="years_old">%d years old</string>
     <string name="expand_button_content_description">See more or less information about a dog.</string>

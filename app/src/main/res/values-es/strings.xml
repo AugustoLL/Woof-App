@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Woof</string>
+    <string name="about">Descripción:</string>
+    <string name="years_old">%d años</string>
+    <string name="expand_button_content_description">Ver más o menos información de un perro.</string>
+</resources>
